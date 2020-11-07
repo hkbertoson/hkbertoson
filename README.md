@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Hunter.  👋
 
-<!--
-**hkbertoson/hkbertoson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Husband, Father and Developer!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a Job Listing Website. 
+- 🌱 I’m currently learning everything 🤣
+- 📫 How to reach me: Email me @ Hunterkylebertoson@gmail.com
+- ⚡ Biggets Fear: I am afraid of heights. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align = "left" alt = "hkbertoson | LinkedIn" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/hunter-bertoson-077688110/
