@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father and Developer!
 
-- 🔭 I’m currently working on a #100DaysOfCode. 
+- 🔭 I’m currently working on the #100DaysOfCode of challenge. Join me on Twitter using the #100DaysOfCode
 - 🌱 I’m currently learning everything 🤣
 - 📫 How to reach me: Email me @ Hunterkylebertoson@gmail.com
 - ⚡ Biggets Fear: I am afraid of heights. 
