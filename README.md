@@ -1,20 +1,22 @@
-### Hello World 👋
-I am a fullstack software engineer from bangladesh
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+### Hi there, I'm Hunter - aka [hkbertoson][website] 👋
+## I'm a Husband, Father and Developer!
+- 🔭 I'm currently working on developing a blog. 
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to do yard work in my spare time. 
 <br>
-## Connect with me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hunter-bertoson-077688110/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@hkbertoson)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/BertosonHunter)
-<br>
-<br>
-## Expertise
-<!-- <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> -->
-<br>
-<br>
+
+### Connect with me:
+[<img align="left" alt="hunterbertoson.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="hkbertoson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="hkbertoson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+---
+<img align = "left" alt = "Hunter Bertoson Github Stats" src = "https://github-readme-stats.vercel.app/api?username=hkbertoson&show_icons=true&hide_border=true")
+>
+
+
+
+[website]: https://hunterbertoson.tech
+[twitter]: https://twitter.com/hkbertoson
+[linkedin]: https://www.linkedin.com/in/hunter-bertoson-077688110/
