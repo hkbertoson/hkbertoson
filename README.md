@@ -1,6 +1,6 @@
 ### Hi there, I'm Hunter - aka [hkbertoson][website] 👋
 ## I'm a Husband, Father and Developer!
-- 🔭 I'm currently working on developing a blog. 
+- 🔭 Check out my blog here! [Hashnode](https://hkbertoson.hashnode.dev/)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do yard work in my spare time. 
@@ -12,10 +12,13 @@
 [<img align="left" alt="hkbertoson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ---
-<img align = "left" alt = "Hunter Bertoson Github Stats" src = "https://github-readme-stats.vercel.app/api?username=hkbertoson&show_icons=true&hide_border=true&count_private=true" />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<img align = "left" alt = "Hunter Bertoson Github Stats" src = "https://github-readme-stats.vercel.app/api?username=hkbertoson&show_icons=true&hide_border=true&count_private=true" />
 
 
 [website]: https://hunterbertoson.tech
