@@ -16,6 +16,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why you should be using Replit](https://hkbertoson.hashnode.dev/why-you-should-be-using-replit)
+- [How to install Homebrew](https://hkbertoson.hashnode.dev/how-to-install-homebrew)
+- [How to build a simple web server using Node JS and Express](https://hkbertoson.hashnode.dev/how-to-build-a-simple-web-server-using-node-js-and-express)
 <!-- BLOG-POST-LIST:END -->
 
 <img align = "left" alt = "Hunter Bertoson Github Stats" src = "https://github-readme-stats.vercel.app/api?username=hkbertoson&show_icons=true&hide_border=true&count_private=true" />
