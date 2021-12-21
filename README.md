@@ -2,7 +2,7 @@
 ## I'm a Husband, Father and Developer!
 - 🔭 Check out my blog here! [Hashnode](https://hkbertoson.hashnode.dev/)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do yard work in my spare time. 
 <br>
 
