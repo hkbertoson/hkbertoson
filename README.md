@@ -23,8 +23,7 @@
 
 <img align = "left" alt = "Hunter Bertoson Github Stats" src = "https://github-readme-stats.vercel.app/api?username=hkbertoson&show_icons=true&hide_border=true&count_private=true" />
 
-
-<a href="https://app.daily.dev/hkbertoson"><img src="https://api.daily.dev/devcards/62f6b18a9d734f2bb23a896805c3da93.png?r=dtq" width="400" alt="Hunter Bertoson's Dev Card"/></a>
+<a href="https://app.daily.dev/hkbertoson"><img src="https://github.com/hkbertoson/hkbertoson/blob/main/devcard.svg" width="400" align = "left" alt="Hunter Bertoson's Dev Card"/></a>
 
 
 [website]: https://hunterbertoson.tech
