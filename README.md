@@ -5,13 +5,15 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do yard work in my spare time. 
 <br>
+<br>
+<a href="https://app.daily.dev/hkbertoson"><img src="https://github.com/hkbertoson/hkbertoson/blob/main/devcard.svg" width="400" align = "right" alt="Hunter Bertoson's Dev Card"/></a>
 
-### Connect with me:
-[<img align="left" alt="hunterbertoson.tech" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="hkbertoson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="hkbertoson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkbertoson&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img align = "center" alt = "Hunter Bertoson Github Stats" src = "https://github-readme-stats.vercel.app/api?username=hkbertoson&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+
 
 
 # Blog posts
@@ -20,12 +22,3 @@
 - [How to install Homebrew](https://hkbertoson.hashnode.dev/how-to-install-homebrew)
 - [How to build a simple web server using Node JS and Express](https://hkbertoson.hashnode.dev/how-to-build-a-simple-web-server-using-node-js-and-express)
 <!-- BLOG-POST-LIST:END -->
-
-<img align = "left" alt = "Hunter Bertoson Github Stats" src = "https://github-readme-stats.vercel.app/api?username=hkbertoson&show_icons=true&hide_border=true&count_private=true" />
-
-<a href="https://app.daily.dev/hkbertoson"><img src="https://github.com/hkbertoson/hkbertoson/blob/main/devcard.svg" width="400" align = "left" alt="Hunter Bertoson's Dev Card"/></a>
-
-
-[website]: https://hunterbertoson.tech
-[twitter]: https://twitter.com/hkbertoson
-[linkedin]: https://www.linkedin.com/in/hunter-bertoson-077688110/
