@@ -6,7 +6,10 @@
 - ⚡ Fun fact: I love to do yard work in my spare time. 
 <br>
 <br>
-<a href="https://app.daily.dev/hkbertoson"><img src="https://github.com/hkbertoson/hkbertoson/blob/main/devcard.svg" width="400" align = "right" alt="Hunter Bertoson's Dev Card"/></a>
+
+
+
+<a href="https://app.daily.dev/hkbertoson"><img src="https://github.com/hkbertoson/hkbertoson/blob/main/devcard.svg" width="400" height = "400" align = "right" alt="Hunter Bertoson's Dev Card"/></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkbertoson&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
