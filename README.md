@@ -21,6 +21,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to make verified commits on Git](https://hkbertoson.hashnode.dev/how-to-make-verified-commits-on-git)
 - [Why you should be using Replit](https://hkbertoson.hashnode.dev/why-you-should-be-using-replit)
 - [How to install Homebrew](https://hkbertoson.hashnode.dev/how-to-install-homebrew)
 - [How to build a simple web server using Node JS and Express](https://hkbertoson.hashnode.dev/how-to-build-a-simple-web-server-using-node-js-and-express)
