@@ -11,7 +11,7 @@
 <a href="https://app.daily.dev/hkbertoson"><img src="https://github.com/hkbertoson/hkbertoson/blob/main/devcard.svg" width="350" height = "400" align = "right" alt="Hunter Bertoson's Dev Card"/></a>
 
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hkbertoson&cover_image=false&theme=default&bar_color=f48657&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkbertoson&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<img align = "center" alt = "Hunter Bertoson Github Stats" src = "https://github-readme-stats.vercel.app/api?username=hkbertoson&show_icons=true&hide_border=true&count_private=true&theme=radical" />
