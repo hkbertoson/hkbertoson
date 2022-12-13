@@ -1,7 +1,7 @@
 ### Hi there, I'm Hunter - aka [hkbertoson]👋
 ## I'm a Husband, Father and Developer!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do yard work in my spare time. 
 <br>
 <br>
