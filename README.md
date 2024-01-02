@@ -2,7 +2,7 @@
 <a href="https://app.daily.dev/hkbertoson"><img src="https://github.com/hkbertoson/hkbertoson/blob/main/devcard.svg" width="300" height = "400" align = "right" alt="Hunter Bertoson's Dev Card"/></a>
 ## I'm a Husband, Father and Developer!
 - 🌱 I’m currently learning [Astro!](https://github.com/withastro]) 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to go scuba diving in my spare time. 
 <br>
 <br>
